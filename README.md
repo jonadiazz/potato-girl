@@ -1,4 +1,5 @@
 
+BMI Calculator and Calories Consumption Advisor
 ------------------------------------------------------------
 99 little bugs in the code
 
